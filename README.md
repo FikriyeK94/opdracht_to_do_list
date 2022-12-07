@@ -8,3 +8,5 @@
 
 
 ![alt text](https://github.com/FikriyeK94/opdracht_to_do_list/edit/main/screenshot.png "Logo Title Text 1")
+
+[logo]: https://github.com/FikriyeK94/opdracht_to_do_list/edit/main/screenshot.png "Logo Title Text 2"
