@@ -7,5 +7,5 @@
 [Demo](https://fikriyek94.github.io/opdracht_to_do_list/)
 
 
-![alt text](https://github.com/FikriyeK94/opdracht_to_do_list/edit/main/screenshot.png "Screenshot to do list")
+![Screenshot to do list](https://github.com/FikriyeK94/opdracht_to_do_list/edit/main/screenshot.png "Screenshot to do list")
 
