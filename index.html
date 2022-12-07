@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>To do list</title>
+        <link rel="stylesheet" href="./css/styles.css">
+    </head>
+    <body>
+        <main>
+            <section class="nieuwe-taak">
+                <h1 class="titel">To do list</h1>
+                <div class="taak-input">
+                    <input type="text" class="nieuwe-taak-naam" placeholder="Vul een nieuwe taak doen">
+                    <button class="voeg-taak-toe">+</button>
+                </div>
+            </section>
+            <section class="taken">
+                <div class="taken-header">
+                  <h2 class="taken-titel">Mijn taken</h2>
+                  <button class="verwijder-alles">
+                    Alles
+                    <img class="verwijder-alles-icon" src="./images/verwijderen.svg" alt="Prullenbak">
+                  </button>
+                </div>
+                <ul class="taken-lijst"></ul>
+            </section>
+        </main>
+        <script src="./js/script.js"></script>
+    </body>
+</html>
